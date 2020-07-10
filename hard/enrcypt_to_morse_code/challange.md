@@ -1,9 +1,9 @@
-# Challange: https://edabit.com/challenge/5bYXQfpyoithnQisa
+# Encode Morse
+Create a function that takes a string as an argument and return a non-encoded, encrypted string.
 
-# Input: encode_morse("HELP ME !") --> ".... . .-.. .--.   -- .   -.-.--"
+This dictionary can be used for coding:
 
-def encode_morse(message):
-	char_to_dots = {
+char_to_dots = {
   'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.', 'F': '..-.',
   'G': '--.', 'H': '....', 'I': '..', 'J': '.---', 'K': '-.-', 'L': '.-..',
   'M': '--', 'N': '-.', 'O': '---', 'P': '.--.', 'Q': '--.-', 'R': '.-.',
@@ -13,6 +13,15 @@ def encode_morse(message):
   '6': '-....', '7': '--...', '8': '---..', '9': '----.',
   '&': '.-...', "'": '.----.', '@': '.--.-.', ')': '-.--.-', '(': '-.--.',
   ':': '---...', ',': '--..--', '=': '-...-', '!': '-.-.--', '.': '.-.-.-',
-  '-': '-....-', '+': '.-.-.', '"': '.-..-.', '?': '..--..', '/': '-..-.', ' ': ' '
-	}
-	return ' '.join(char_to_dots[i.upper()] for i in message)
+  '-': '-....-', '+': '.-.-.', '"': '.-..-.', '?': '..--..', '/': '-..-.'
+}
+
+### Notes:
+
+```
+Input value can be lower or upper case.
+
+Input string can have digits.
+
+Input string can have some special characters (e.g. comma, colon, apostrophe, period, question mark, exclamation mark).
+```
