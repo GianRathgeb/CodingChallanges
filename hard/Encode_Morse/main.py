@@ -1,6 +1,6 @@
 # Challange: https://edabit.com/challenge/5bYXQfpyoithnQisa
 
-# Input: encode_morse("HELP ME !") --> ".... . .-.. .--.   -- .   -.-.--"
+# Input: encode_morse("HELP ME !") ➞ ".... . .-.. .--.   -- .   -.-.--"
 
 def encode_morse(message):
 	char_to_dots = {

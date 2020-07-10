@@ -3,6 +3,17 @@ Create a function that takes a string as an argument and return a non-encoded, e
 
 This dictionary can be used for coding:
 
+## Examples
+
+```
+encode_morse("EDABBIT CHALLENGE") ➞ ". -.. .- -... -... .. -   -.-. .... .- .-.. .-.. . -. --. ."
+
+encode_morse("HELP ME !") ➞ ".... . .-.. .--.   -- .   -.-.--"
+```
+
+This dictionary can be used for coding:
+
+```
 char_to_dots = {
   'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.', 'F': '..-.',
   'G': '--.', 'H': '....', 'I': '..', 'J': '.---', 'K': '-.-', 'L': '.-..',
@@ -15,6 +26,8 @@ char_to_dots = {
   ':': '---...', ',': '--..--', '=': '-...-', '!': '-.-.--', '.': '.-.-.-',
   '-': '-....-', '+': '.-.-.', '"': '.-..-.', '?': '..--..', '/': '-..-.'
 }
+```
+
 
 ### Notes:
 

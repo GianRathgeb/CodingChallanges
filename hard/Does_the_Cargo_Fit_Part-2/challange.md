@@ -4,3 +4,7 @@ A ship has to transport cargo from one place to another, while picking up cargo 
 * "S" means 50 cargo space.
 * "M" means 100 cargo space.
 * "L" means 200 cargo space.
+
+### Notes
+
+N/A

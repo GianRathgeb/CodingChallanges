@@ -1,6 +1,6 @@
 # Challange: https://edabit.com/challenge/zzibM5MaxDNvQCrEk
 
-# Input: will_fit(["M", "L", "L", "M"], [56, 62, 84, 90]) --> True
+# Input: will_fit(["M", "L", "L", "M"], [56, 62, 84, 90]) ➞ True
 
 def will_fit(holds, cargo):
 	spaces = []
