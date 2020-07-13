@@ -16,3 +16,4 @@
 | C*ns*r*d Str*ngs | 13.07.2020 | https://edabit.com/challenge/ehyZvt6AJF4rKFfXT |
 | Flip the Array | 13.07.2020 | https://edabit.com/challenge/QoavwQhmrDpXJhBW9 |
 | Censor Words from List | 13.07.2020 | https://edabit.com/challenge/zJSF5EfPe69e9sJAc |
+| Vowel to Vowel Links | 13.07.2020 | https://edabit.com/challenge/PxxZprxCjDrzaTcLQ |
