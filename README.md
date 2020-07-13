@@ -12,3 +12,4 @@
 | Combinations | 13.07.2020 | https://edabit.com/challenge/G9QRtAGXb9Cu368Pw |
 | The Karaca's Encryption Algorithm | 13.07.2020 | https://edabit.com/challenge/JzBLDzrcGCzDjkk5n |
 | Pentagonal Number | 13.07.2020 | https://edabit.com/challenge/st8mDxreMcuWxuz8c |
+| Tallest Skyscraper | 13.07.2020 | https://edabit.com/challenge/76ibd8jZxvhAwDskb |
