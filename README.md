@@ -1,5 +1,7 @@
 # Coding Challanges
 
+These challanges are all from the site https://edabit.com.
+
 ## Hard challanges
 
 | Challange | Date  | Link |
