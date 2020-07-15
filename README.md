@@ -1,6 +1,7 @@
 # Coding Challanges
 
 These challanges are all from the site https://edabit.com.
+You can try the challanges for yourself on edabit.
 
 ## Hard challanges
 
@@ -20,3 +21,4 @@ These challanges are all from the site https://edabit.com.
 | Censor Words from List | 13.07.2020 | https://edabit.com/challenge/zJSF5EfPe69e9sJAc |
 | Vowel to Vowel Links | 13.07.2020 | https://edabit.com/challenge/PxxZprxCjDrzaTcLQ |
 | Majority Vote | 13.07.2020 | https://edabit.com/challenge/pQavNkBbdmvSMmx5x |
+
