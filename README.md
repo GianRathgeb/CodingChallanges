@@ -1,5 +1,8 @@
 # Coding Challanges
 
+These challanges are all from the site https://edabit.com.
+You can try the challanges for yourself on edabit.
+
 ## Hard challanges
 
 | Challange | Date  | Link |
@@ -18,4 +21,8 @@
 | Censor Words from List | 13.07.2020 | https://edabit.com/challenge/zJSF5EfPe69e9sJAc |
 | Vowel to Vowel Links | 13.07.2020 | https://edabit.com/challenge/PxxZprxCjDrzaTcLQ |
 | Majority Vote | 13.07.2020 | https://edabit.com/challenge/pQavNkBbdmvSMmx5x |
+<<<<<<< HEAD
 | First Before Second Letter | 16.07.2020 | https://edabit.com/challenge/D6XfxhRobdQvbKX4v
+=======
+
+>>>>>>> fbe97328e646fa4ef9b3108a856202d6580e3db3
