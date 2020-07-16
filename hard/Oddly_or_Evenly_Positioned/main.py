@@ -1,6 +1,7 @@
 # Challange: https://edabit.com/challenge/KQe5w8AdSLbweW8ck
 
 # Input: char_at_pos([2, 4, 6, 8, 10], "even") ➞ [4, 8]
+# Input: char_at_pos("EDABIT", "odd") ➞ "DBT"
 
 def char_at_pos(r, s):
 	output = []
