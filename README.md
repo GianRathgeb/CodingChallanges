@@ -21,5 +21,6 @@ You can try the challanges for yourself on edabit.
 | Censor Words from List | 13.07.2020 | https://edabit.com/challenge/zJSF5EfPe69e9sJAc |
 | Vowel to Vowel Links | 13.07.2020 | https://edabit.com/challenge/PxxZprxCjDrzaTcLQ |
 | Majority Vote | 13.07.2020 | https://edabit.com/challenge/pQavNkBbdmvSMmx5x |
-| First Before Second Letter | 16.07.2020 | https://edabit.com/challenge/D6XfxhRobdQvbKX4v
+| First Before Second Letter | 16.07.2020 | https://edabit.com/challenge/D6XfxhRobdQvbKX4v |
+| Oddly or Evenly Positioned | 16.07.2020 | https://edabit.com/challenge/KQe5w8AdSLbweW8ck |
 
